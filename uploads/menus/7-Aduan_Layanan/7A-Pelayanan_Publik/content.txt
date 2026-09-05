@@ -1,0 +1,84 @@
+👥 Aduan Pelayanan Publik
+
+📝 Format Keluhan:
+Untuk mengajukan keluhan pelayanan publik, gunakan format berikut:
+
+```
+pengaduan
+Nama: [Nama Lengkap Anda]
+Alamat: [Alamat Lengkap dengan RT/RW]
+Aduan: [Deskripsi detail masalah pelayanan yang dialami]
+```
+
+📋 Contoh Penggunaan:
+```
+pengaduan
+Nama: Siti Aminah
+Alamat: Jl. Raya Desa No. 45, RT 01/RW 03
+Aduan: Pelayanan di kantor desa sangat lambat, harus antri lama sekali untuk mengurus KTP
+```
+
+
+Jenis Pengaduan Pelayanan Publik:
+
+📋 Administrasi Kependudukan
+- Pelayanan KTP/KK lambat
+- Kesalahan data kependudukan
+- Petugas tidak responsif
+- Persyaratan tidak jelas
+
+📄 Perizinan
+- Proses perizinan berbelit
+- Biaya tidak sesuai ketentuan
+- Waktu pengurusan terlalu lama
+- Informasi persyaratan kurang jelas
+
+👥 Pelayanan Petugas
+- Sikap petugas kurang ramah
+- Pelayanan diskriminatif
+- Jam kerja tidak sesuai
+- Kompetensi petugas kurang
+
+🏢 Fasilitas Kantor
+- Ruang tunggu tidak nyaman
+- Fasilitas rusak/kotor
+- Antrian tidak teratur
+- Informasi pelayanan kurang jelas
+
+Contoh Pengaduan:
+
+pengaduan
+Nama: Siti Aminah
+Alamat: Dusun Tengah RT 03/RW 02 Desa Pulosarok
+Aduan: Sudah 2 minggu mengurus KTP baru tapi belum selesai. Petugas bilang masih menunggu dari kabupaten tapi tidak ada kepastian waktu. Mohon dipercepat karena butuh untuk keperluan melamar kerja.
+
+
+💡 Tips:Sertakan foto dokumen atau bukti lain jika diperlukan untuk memperjelas pengaduan Anda.
+
+Informasi
+
+Layanan aduan pelayanan publik Desa Pulosarok bertujuan untuk meningkatkan kualitas pelayanan kepada masyarakat.
+
+Jenis Aduan yang Dapat Disampaikan
+
+1. Pelayanan administrasi desa yang lambat
+2. Petugas yang tidak ramah atau tidak profesional
+3. Pungutan tidak resmi dalam pelayanan
+4. Jam buka/tutup kantor desa yang tidak sesuai jadwal
+5. Informasi pelayanan yang tidak jelas
+
+Cara Menyampaikan Aduan
+
+1. Kirim pesan WhatsApp ke nomor ini dengan format:
+   *ADUAN PELAYANAN [JENIS ADUAN] [DETAIL ADUAN]*
+2. Isi formulir aduan di Kantor Desa
+3. Kirim email ke aduan.pulosarok@desa.id
+
+Setiap aduan akan ditindaklanjuti dalam waktu 2x24 jam kerja. Identitas pelapor akan dirahasiakan.
+
+Untuk informasi lebih lanjut, hubungi Sekretaris Desa di 0812-3456-7890.
+
+---
+📝 *Dibuat oleh Mahasiswa UMSU*
+🎓 Program KKN 2025
+🏫 Universitas Muhammadiyah Sumatera Utara

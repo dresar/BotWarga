@@ -1,0 +1,44 @@
+🛡️ Aduan Keamanan
+
+🚨 KEADAAN DARURAT:
+- Hubungi 110 (Polri) untuk situasi darurat
+- Hubungi Kepala Keamanan Desa: 0856-7890-1234
+- Prioritaskan keselamatan diri dan keluarga
+
+📝 Format Keluhan:
+Untuk melaporkan masalah keamanan, gunakan format berikut:
+
+```
+Keluhan
+Nama: [Nama Lengkap Anda]
+Alamat: [Alamat Lengkap dengan RT/RW]
+Keluhan: [Deskripsi detail masalah keamanan yang terjadi]
+```
+
+📋 Contoh Penggunaan:
+```
+Keluhan
+Nama: Warga Peduli
+Alamat: Jl. Aman No. 15, RT 02/RW 03
+Keluhan: Ronda malam di RT kami tidak berjalan, pos kamling tidak terawat, warga merasa kurang aman
+```
+
+🔒 Jenis Masalah Keamanan:
+- Gangguan keamanan dan ketertiban
+- Pencurian atau tindak kriminal
+- Perjudian atau kegiatan ilegal
+- Ronda malam tidak berjalan
+- Pos kamling tidak terawat
+- Penerangan jalan kurang untuk keamanan
+
+🔄 Proses Otomatis:
+- Kategori: Keamanan (Prioritas Tinggi)
+- Admin dan petugas keamanan mendapat notifikasi darurat
+- Koordinasi dengan aparat kepolisian jika diperlukan
+
+🔒 Kerahasiaan: Identitas pelapor dijaga kerahasiaannya.
+
+---
+📝 *Dibuat oleh Mahasiswa UMSU*
+🎓 Program KKN 2025
+🏫 Universitas Muhammadiyah Sumatera Utara

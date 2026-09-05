@@ -1,0 +1,94 @@
+# Aduan Lingkungan
+
+## Cara Menggunakan Layanan Pengaduan Lingkungan
+
+Untuk mengajukan pengaduan terkait masalah lingkungan, ikuti langkah berikut:
+
+### 1. Mulai Pengaduan
+Ketik: layanan atau pengaduan
+
+### 2. Pilih Kategori
+Ketik: 5 (untuk Lingkungan)
+
+### 3. Isi Formulir
+```
+pengaduan
+Nama: [nama lengkap Anda]
+Alamat: [alamat lengkap dengan RT/RW]
+Aduan: [deskripsi detail masalah lingkungan]
+```
+
+## Jenis Pengaduan Lingkungan:
+
+### 🗑️ Pengelolaan Sampah
+- Sampah menumpuk di jalan
+- TPS (Tempat Pembuangan Sampah) penuh
+- Jadwal pengangkutan tidak teratur
+- Sampah dibuang sembarangan
+- Bank sampah tidak berfungsi
+- Pemilahan sampah tidak berjalan
+
+### 🌊 Pencemaran Air
+- Air sungai tercemar
+- Limbah industri/rumah tangga
+- Air sumur berbau/berubah warna
+- Saluran air kotor tersumbat
+- Pembuangan limbah sembarangan
+
+### 🌬️ Pencemaran Udara
+- Asap pabrik/pembakaran
+- Bau tidak sedap
+- Debu berlebihan
+- Polusi kendaraan
+- Pembakaran sampah terbuka
+
+### 🌳 Kerusakan Lingkungan
+- Penebangan pohon ilegal
+- Kerusakan hutan/lahan
+- Erosi tanah
+- Alih fungsi lahan
+- Ruang terbuka hijau berkurang
+
+### 🔊 Pencemaran Suara
+- Kebisingan pabrik
+- Suara kendaraan berlebihan
+- Musik/sound system keras
+- Mesin-mesin bising
+- Aktivitas malam mengganggu
+
+### 🏭 Limbah Industri
+- Pembuangan limbah B3
+- Limbah cair ke sungai
+- Limbah padat menumpuk
+- Tidak ada pengolahan limbah
+- Pencemaran tanah
+
+### 🐛 Hama dan Penyakit
+- Hama tanaman merajalela
+- Penyakit hewan menular
+- Vektor penyakit (nyamuk, tikus)
+- Gulma invasif
+- Gangguan ekosistem
+
+## Contoh Pengaduan:
+```
+pengaduan
+Nama: Ibu Ratna Sari
+Alamat: Dusun Barat RT 03/RW 01 Desa Pulosarok
+Aduan: Sudah 1 minggu sampah di TPS dekat rumah tidak diangkut. Sampah menumpuk tinggi dan mulai berbau busuk. Banyak lalat dan tikus berkeliaran. Warga sekitar mulai terganggu. Mohon segera diangkut dan dijadwalkan rutin.
+```
+
+🌍 Penting: Lingkungan yang bersih adalah tanggung jawab bersama. Mari jaga kelestarian lingkungan desa kita.
+
+📸 Tips: Sertakan foto kondisi lingkungan yang bermasalah untuk memperjelas tingkat kerusakan atau pencemaran.
+
+⚠️ Darurat: Untuk pencemaran berbahaya atau kerusakan lingkungan parah, segera hubungi Dinas Lingkungan Hidup Kabupaten.
+
+## Informasi
+
+Layanan aduan lingkungan untuk menjaga kelestarian dan kebersihan Desa Pulosarok.
+
+---
+📝 *Dibuat oleh Mahasiswa UMSU*
+🎓 Program KKN 2025
+🏫 Universitas Muhammadiyah Sumatera Utara

@@ -1,0 +1,80 @@
+# Vaksinasi
+
+## Informasi
+
+Desa Pulosarok menyelenggarakan program vaksinasi untuk melindungi masyarakat dari berbagai penyakit menular. Berikut informasi lengkap mengenai program vaksinasi di Desa Pulosarok:
+
+## Jenis Vaksinasi
+
+1. Vaksinasi Rutin untuk Bayi dan Balita
+   - BCG: untuk mencegah tuberkulosis (TB)
+   - DPT-HB-Hib: untuk mencegah difteri, pertusis, tetanus, hepatitis B, dan Haemophilus influenzae tipe b
+   - Polio: untuk mencegah poliomielitis
+   - Campak: untuk mencegah campak
+   - Rubella: untuk mencegah rubella
+   - Pneumokokus: untuk mencegah pneumonia
+   - Rotavirus: untuk mencegah diare berat akibat rotavirus
+
+2. Vaksinasi untuk Anak Usia Sekolah
+   - DT (Difteri Tetanus): untuk anak kelas 1 SD
+   - Td (Tetanus Difteri): untuk anak kelas 2 dan 5 SD
+   - MR (Measles Rubella): untuk anak SD dan SMP
+   - HPV: untuk anak perempuan kelas 5 SD
+
+3. Vaksinasi untuk Dewasa
+   - Tetanus Toksoid (TT): untuk ibu hamil dan wanita usia subur
+   - Influenza: untuk lansia dan kelompok risiko tinggi
+   - Pneumokokus: untuk lansia dan kelompok risiko tinggi
+   - COVID-19: untuk seluruh masyarakat usia 12 tahun ke atas
+
+## Jadwal Vaksinasi
+
+1. Vaksinasi Rutin Bayi dan Balita
+   - Dilaksanakan setiap bulan di Posyandu masing-masing dusun
+   - Jadwal sesuai dengan jadwal Posyandu (lihat menu Posyandu)
+
+2. Vaksinasi Anak Usia Sekolah
+   - Dilaksanakan di sekolah-sekolah sesuai program BIAS (Bulan Imunisasi Anak Sekolah)
+   - Biasanya dilaksanakan pada bulan Agustus dan November
+
+3. Vaksinasi COVID-19
+   - Jadwal: Setiap hari Senin dan Rabu
+   - Jam: 08.00-12.00 WIB
+   - Tempat: Balai Desa Pulosarok
+   - Dosis: Pertama, kedua, dan booster
+
+4. Vaksinasi Influenza
+   - Jadwal: Setiap bulan April dan Mei
+   - Jam: 08.00-12.00 WIB
+   - Tempat: Puskesmas Pembantu Desa Pulosarok
+
+## Persyaratan
+
+Untuk mendapatkan layanan vaksinasi, warga perlu membawa:
+1. Kartu Identitas (KTP/KK)
+2. Buku Kesehatan Ibu dan Anak (KIA) untuk bayi dan balita
+3. Kartu vaksinasi sebelumnya (jika ada)
+4. Untuk vaksinasi COVID-19, membawa fotokopi KTP
+
+## Biaya
+
+1. Vaksinasi Program Pemerintah
+   - Gratis untuk seluruh masyarakat
+   - Termasuk vaksinasi rutin bayi dan balita, anak sekolah, dan COVID-19
+
+2. Vaksinasi Non-Program
+   - Influenza: Rp 100.000 - Rp 150.000
+   - Pneumokokus: Rp 300.000 - Rp 400.000
+   - HPV (di luar program sekolah): Rp 500.000 per dosis
+
+## Kontak
+
+Untuk informasi lebih lanjut tentang program vaksinasi, silakan hubungi:
+- Koordinator Imunisasi Desa: Ibu Dina Puspita
+- Telepon: 0856-9876-5432
+- Puskesmas Pembantu Desa Pulosarok: 0812-3456-7890
+
+---
+📝 *Dibuat oleh Mahasiswa UMSU*
+🎓 Program KKN 2025
+🏫 Universitas Muhammadiyah Sumatera Utara

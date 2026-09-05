@@ -1,0 +1,16 @@
+# Fasilitas Umum Desa
+
+Daftar fasilitas (dummy):
+- Kantor Desa & Balai Desa (Jam 08.00–15.00)
+- Puskesmas Pembantu / Posyandu
+- Sekolah SD/MI dan SMP/MTs
+- Masjid/Mushola
+- Lapangan Olahraga
+- Pasar Desa
+
+Catatan: Jadwal operasional dapat berubah sesuai kebijakan desa. Untuk informasi terbaru, hubungi Kantor Desa (0812-0000-0000).
+
+---
+📝 *Dibuat oleh Mahasiswa UMSU*
+🎓 Program KKN 2025
+🏫 Universitas Muhammadiyah Sumatera Utara

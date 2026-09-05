@@ -1,0 +1,69 @@
+{
+  "name": "BotDesapulosarok",
+  "version": "1.0.0",
+  "description": "Aplikasi berbasis SQLite untuk layanan informasi desa Pulosarok",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "update-menu": "node menuUpdateSystem.js --manual",
+    "schedule-update": "node menuUpdateSystem.js --schedule",
+    "validate-system": "node menuUpdateSystem.js --validate",
+    "backup-content": "node menuUpdateSystem.js --backup",
+    "check-changes": "node menuUpdateSystem.js --check",
+    "system-status": "node menuUpdateSystem.js --status",
+    "add-umsu-note": "node add-umsu-note.js",
+    "prod:start": "pm2 start ecosystem.config.js --env production",
+    "prod:stop": "pm2 stop ecosystem.config.js",
+    "prod:restart": "pm2 reload ecosystem.config.js --env production",
+    "prod:delete": "pm2 delete ecosystem.config.js",
+    "prod:logs": "pm2 logs bot-whatsapp-production",
+    "prod:monitor": "pm2 monit",
+    "prod:status": "pm2 status",
+    "prod:cleanup": "node scripts/cleanup-cache.js",
+    "prod:health": "node scripts/production-monitor.js --health",
+    "prod:report": "node scripts/production-monitor.js --report",
+    "prod:watch": "node scripts/production-monitor.js",
+    "prod:setup": "npm run prod:cleanup && npm run prod:start && npm run prod:watch"
+  },
+  "keywords": [
+    "desa",
+    "informasi",
+    "sqlite",
+    "layanan",
+    "pulosarok"
+  ],
+  "author": "Kantor Kepala Desa",
+  "license": "MIT",
+  "dependencies": {
+    "@hapi/boom": "^10.0.1",
+    "@whiskeysockets/baileys": "^6.7.19",
+    "axios": "^1.11.0",
+    "bcrypt": "^6.0.0",
+    "bcryptjs": "^3.0.2",
+    "better-sqlite3": "^12.2.0",
+    "body-parser": "^1.20.3",
+    "colors": "^1.4.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.6.1",
+    "express": "^4.21.2",
+    "fs-extra": "^11.3.1",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.18.0",
+    "multer": "^2.0.2",
+    "node-cron": "^3.0.3",
+    "path": "^0.12.7",
+    "pino": "^8.21.0",
+    "pino-pretty": "^13.1.1",
+    "qrcode": "^1.5.3",
+    "qrcode-terminal": "^0.12.0",
+    "sqlite3": "^5.1.7",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}

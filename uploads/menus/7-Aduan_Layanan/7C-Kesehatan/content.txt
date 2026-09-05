@@ -1,0 +1,83 @@
+🏥 Aduan Kesehatan
+
+📝 Format Keluhan:
+Untuk mengajukan keluhan layanan kesehatan, gunakan format berikut:
+
+```
+Keluhan
+Nama: [Nama Lengkap Anda]
+Alamat: [Alamat Lengkap dengan RT/RW]
+Keluhan: [Deskripsi detail masalah kesehatan yang dialami]
+```
+
+📋 Contoh Penggunaan:
+```
+Keluhan
+Nama: Ibu Hamil
+Alamat: Jl. Sehat No. 2, RT 01/RW 01
+Keluhan: Puskesmas tidak ada dokter, obat-obatan habis, pelayanan kesehatan buruk
+```
+
+🩺 Jenis Masalah Kesehatan yang Dapat Dilaporkan:
+
+### 🏥 Pelayanan Puskesmas
+- Antrian terlalu lama
+- Obat tidak tersedia
+- Petugas medis kurang responsif
+- Jam operasional tidak sesuai
+- Fasilitas medis rusak
+
+### 💊 Posyandu dan Program Kesehatan
+- Jadwal posyandu tidak teratur
+- Vaksinasi terlambat
+- Peralatan kesehatan rusak
+
+🔄 Proses Otomatis:
+- Kategori: Kesehatan (Prioritas Tinggi)
+- Admin mendapat notifikasi untuk koordinasi dengan petugas kesehatan
+- Tindak lanjut cepat untuk masalah kesehatan darurat
+
+### 👶 Posyandu dan Kesehatan Ibu-Anak
+- Jadwal posyandu tidak teratur
+- Kader posyandu kurang aktif
+- Alat timbang/ukur rusak
+- Vitamin/makanan tambahan habis
+- Imunisasi terlambat
+
+### 🌍 Kesehatan Lingkungan
+- Sampah menumpuk
+- Air bersih tercemar
+- Lingkungan kotor/bau
+- Hewan ternak berkeliaran
+- Tempat pembuangan sampah penuh
+
+### 🦟 Pencegahan Penyakit
+- Fogging DBD terlambat
+- Sosialisasi kesehatan kurang
+- Program vaksinasi terhambat
+- Penyuluhan gizi tidak ada
+- Deteksi dini penyakit tidak berjalan
+
+### 🚰 Sanitasi
+- MCK umum kotor
+- Saluran pembuangan tersumbat
+- Air sumur tercemar
+- Septik tank penuh
+- Drainase air kotor buruk
+
+## Contoh Pengaduan:
+```
+pengaduan
+Nama: Ibu Sari Wulandari
+Alamat: Dusun Selatan RT 01/RW 04 Desa Pulosarok
+Aduan: Posyandu di dusun kami sudah 2 bulan tidak ada kegiatan. Anak-anak balita tidak bisa ditimbang dan divaksin. Kader bilang tidak ada jadwal dari puskesmas. Mohon segera dijadwalkan kembali.
+```
+
+⚕️ Darurat: Untuk kasus darurat medis, segera hubungi 119 atau langsung ke puskesmas/rumah sakit terdekat.
+
+📋 Tips: Sertakan foto kondisi lingkungan atau fasilitas kesehatan yang bermasalah untuk memperjelas pengaduan.
+
+---
+📝 *Dibuat oleh Mahasiswa UMSU*
+🎓 Program KKN 2025
+🏫 Universitas Muhammadiyah Sumatera Utara

@@ -1,0 +1,98 @@
+🔍 *PENCARIAN BERITA DESA PULOSAROK*
+═══════════════════════════════════════
+
+📰 SISTEM BERITA DESA TERINTEGRASI
+
+📝 CARA MENGAKSES BERITA:
+
+1️⃣ BERITA TERBARU
+   • Pilih menu "6A - Berita Terbaru"
+   • Menampilkan 10 berita terbaru yang dipublikasi
+   • Diurutkan berdasarkan tanggal publikasi
+   • Update otomatis dari database
+
+2️⃣ BERITA BERDASARKAN KATEGORI
+   • Pilih menu "6B - Berita Kategori"
+   • Lihat kategori yang tersedia di database
+   • Filter berita sesuai kategori pilihan
+
+3️⃣ PENCARIAN BERITA BEBAS
+   • Gunakan fungsi: cari_berita(kata_kunci)
+   • Contoh: cari_berita(pembangunan)
+   • Pencarian di seluruh database berita
+
+🎯 FUNGSI PENCARIAN YANG TERSEDIA:
+
+✅ FUNGSI UTAMA:
+• cari_berita(kata_kunci) - Pencarian bebas
+• cari_berita(kategori) - Filter berdasarkan kategori
+• Menu "6A" - Berita terbaru
+• Menu "6B" - Kategori berita
+
+🔍 KEUNGGULAN SISTEM BERITA:
+• Database terintegrasi real-time
+• Pencarian di judul dan konten
+• Filter berdasarkan kategori
+• Hasil terurut berdasarkan tanggal
+
+📊 CONTOH PENGGUNAAN FUNGSI:
+
+🏗️ Infrastruktur & Pembangunan:
+• cari_berita(infrastruktur)
+• cari_berita(jalan)
+• cari_berita(pembangunan)
+• cari_berita(fasilitas)
+
+🏥 Kesehatan & Sosial:
+• cari_berita(kesehatan)
+• cari_berita(posyandu)
+• cari_berita(vaksinasi)
+• cari_berita(puskesmas)
+
+💼 Ekonomi & UMKM:
+• cari_berita(ekonomi)
+• cari_berita(UMKM)
+• cari_berita(pelatihan)
+• cari_berita(modal)
+
+📚 Pendidikan & Budaya:
+• cari_berita(pendidikan)
+• cari_berita(beasiswa)
+• cari_berita(budaya)
+• cari_berita(festival)
+
+🌾 Pertanian & Lingkungan:
+• cari_berita(pertanian)
+• cari_berita(panen)
+• cari_berita(pupuk)
+• cari_berita(petani)
+
+🎭 Budaya & Seni:
+• cari_berita(budaya)
+• cari_berita(festival)
+• cari_berita(lomba)
+• cari_berita(seni)
+
+📞 BANTUAN PENGGUNAAN:
+
+Jika mengalami kesulitan:
+• Gunakan format fungsi yang benar: cari_berita(kata_kunci)
+• Coba kata kunci yang lebih sederhana
+• Pilih menu "6B" untuk melihat kategori tersedia
+• Hubungi admin desa jika perlu bantuan
+
+💡 CATATAN PENTING:
+• Database berita diperbarui secara real-time
+• Fungsi pencarian tidak case-sensitive
+• Hasil diurutkan berdasarkan tanggal publikasi
+• Semua berita yang ditampilkan sudah dipublikasi
+• Kategori disesuaikan dengan database aktual
+
+═══════════════════════════════════════
+📱 *Sistem Informasi Desa Pulosarok*
+🤖 *Powered by WhatsApp Bot & Database SQLite*
+
+---
+📝 *Dibuat oleh Mahasiswa UMSU*
+🎓 Program KKN 2025
+🏫 Universitas Muhammadiyah Sumatera Utara

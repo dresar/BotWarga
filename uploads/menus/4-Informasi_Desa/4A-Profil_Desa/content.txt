@@ -1,0 +1,25 @@
+# Profil Desa Pulosarok
+
+Gambaran Umum
+- Nama Desa: Pulosarok
+- Kecamatan: (contoh) Kecamatan Pulosarok
+- Kabupaten/Kota: (contoh) Kabupaten Contoh
+- Provinsi: (contoh) Aceh
+- Jumlah Penduduk: ~3.245 jiwa (dummy)
+- Luas Wilayah: ~12,3 km² (dummy)
+
+Visi & Misi (Dummy)
+- Visi: Mewujudkan desa yang mandiri, sehat, dan sejahtera.
+- Misi: Pelayanan publik prima, penguatan ekonomi kerakyatan, dan tata kelola transparan.
+
+Wilayah Administratif
+- Dusun: Dusun A, Dusun B, Dusun C
+
+Kontak Kantor Desa
+- Alamat: Jl. Contoh No. 1, Pulosarok
+- Telepon: 0812-0000-0000 (dummy)
+
+---
+📝 *Dibuat oleh Mahasiswa UMSU*
+🎓 Program KKN 2025
+🏫 Universitas Muhammadiyah Sumatera Utara

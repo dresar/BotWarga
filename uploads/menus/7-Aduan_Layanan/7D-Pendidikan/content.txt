@@ -1,0 +1,82 @@
+# Aduan Pendidikan
+
+## Cara Menggunakan Layanan Pengaduan Pendidikan
+
+Untuk mengajukan pengaduan terkait layanan pendidikan, ikuti langkah berikut:
+
+### 1. Mulai Pengaduan
+Ketik: layanan atau pengaduan
+
+### 2. Pilih Kategori
+Ketik: 4 (untuk Pendidikan)
+
+### 3. Isi Formulir
+```
+pengaduan
+Nama: [nama lengkap Anda]
+Alamat: [alamat lengkap dengan RT/RW]
+Aduan: [deskripsi detail masalah pendidikan]
+```
+
+## Jenis Pengaduan Pendidikan:
+
+### 🏫 Fasilitas Sekolah
+- Ruang kelas rusak
+- Atap bocor
+- Meja/kursi rusak
+- Toilet sekolah kotor
+- Lapangan olahraga rusak
+- Perpustakaan tidak terawat
+
+### 👨‍🏫 Tenaga Pendidik
+- Guru sering tidak masuk
+- Metode mengajar kurang baik
+- Guru tidak disiplin
+- Kekurangan guru mata pelajaran
+- Guru honorer belum dibayar
+
+### 📚 Sarana Pembelajaran
+- Buku pelajaran kurang
+- Alat peraga tidak ada
+- Komputer/laptop rusak
+- Proyektor tidak berfungsi
+- Internet sekolah lambat
+- Laboratorium tidak lengkap
+
+### 🎓 Program Pendidikan
+- Kegiatan ekstrakurikuler kurang
+- Program beasiswa tidak jelas
+- Pelatihan guru kurang
+- Sosialisasi pendidikan minim
+- Program literasi tidak berjalan
+
+### 🚌 Transportasi Sekolah
+- Jalan ke sekolah rusak
+- Tidak ada angkutan umum
+- Jarak sekolah terlalu jauh
+- Transportasi sekolah rusak
+- Biaya transportasi mahal
+
+### 💰 Bantuan Pendidikan
+- BOS tidak tepat sasaran
+- Bantuan seragam terlambat
+- Program makan siang tidak ada
+- Beasiswa tidak merata
+- Bantuan alat tulis kurang
+
+## Contoh Pengaduan:
+```
+pengaduan
+Nama: Ahmad Fauzi
+Alamat: Dusun Utara RT 04/RW 02 Desa Pulosarok
+Aduan: Atap ruang kelas 3 SD Pulosarok bocor parah. Saat hujan anak-anak tidak bisa belajar dengan nyaman. Sudah dilaporkan ke kepala sekolah tapi belum ada tindakan. Mohon segera diperbaiki sebelum musim hujan lebih parah.
+```
+
+📖 Penting: Pendidikan adalah hak setiap anak. Jangan ragu melaporkan masalah yang menghambat proses belajar mengajar.
+
+📸 Tips: Sertakan foto kondisi fasilitas atau dokumen yang mendukung pengaduan Anda.
+
+---
+📝 *Dibuat oleh Mahasiswa UMSU*
+🎓 Program KKN 2025
+🏫 Universitas Muhammadiyah Sumatera Utara

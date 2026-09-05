@@ -1,0 +1,41 @@
+📂 KATEGORI BERITA DESA PULOSAROK
+═══════════════════════════════════════
+
+📂 KATEGORI BERITA TERSEDIA:
+
+🎭 BUDAYA
+💼 EKONOMI
+🏗️ INFRASTRUKTUR
+🏥 KESEHATAN
+📚 PENDIDIKAN
+🌾 PERTANIAN
+
+
+🔍 Cara menggunakan kategori:
+• Ketik "cari_berita(kategori)" untuk filter
+• Contoh: cari_berita(infrastruktur)
+• Contoh: cari_berita(kesehatan)
+• Contoh: cari_berita(ekonomi)
+
+📊 Jenis berita per kategori:
+🏗️ INFRASTRUKTUR - Pembangunan, jalan, fasilitas
+🏥 KESEHATAN - Posyandu, puskesmas, program kesehatan
+💼 EKONOMI - UMKM, pelatihan, bantuan modal
+📚 PENDIDIKAN - Sekolah, beasiswa, pelatihan
+🤝 SOSIAL - Bantuan, gotong royong, kegiatan warga
+🌱 LINGKUNGAN - Kebersihan, penghijauan, sampah
+🎭 BUDAYA - Festival, tradisi, seni
+🌾 PERTANIAN - Panen, pupuk, teknologi pertanian
+
+💡 Tips pencarian:
+• Gunakan kata kunci yang spesifik
+• Kombinasikan dengan tanggal jika perlu
+• Cek berita terbaru di menu "6A"
+
+🏛️ Desa Pulosarok
+Berita terkategorisasi untuk kemudahan akses
+
+---
+📝 *Dibuat oleh Mahasiswa UMSU*
+🎓 Program KKN 2025
+🏫 Universitas Muhammadiyah Sumatera Utara

@@ -1,0 +1,59 @@
+📚 ARSIP BERITA DESA PULOSAROK
+═══════════════════════════════════════
+
+🗃️ SISTEM ARSIP BERITA:
+
+Total berita tersimpan: 6 berita
+Kategori tersedia: 6 kategori
+
+📋 CARA MENGAKSES ARSIP:
+
+1️⃣ PENCARIAN BERDASARKAN KATA KUNCI
+   • Gunakan: cari_berita(kata_kunci)
+   • Contoh: cari_berita(pembangunan)
+   • Pencarian di judul dan isi berita
+
+2️⃣ FILTER BERDASARKAN KATEGORI
+   • Gunakan: cari_berita(nama_kategori)
+   • Lihat daftar kategori di menu "6B"
+
+3️⃣ BERITA TERBARU
+   • Akses menu "6A - Berita Terbaru"
+   • Menampilkan 10 berita terbaru
+
+📊 STATISTIK ARSIP:
+📂 KATEGORI BERITA TERSEDIA:
+
+🎭 BUDAYA
+💼 EKONOMI
+🏗️ INFRASTRUKTUR
+🏥 KESEHATAN
+📚 PENDIDIKAN
+🌾 PERTANIAN
+
+
+🔍 TIPS PENCARIAN EFEKTIF:
+• Gunakan kata kunci spesifik
+• Coba variasi kata jika tidak menemukan
+• Periksa ejaan kata kunci
+• Gunakan kategori untuk mempersempit pencarian
+
+📱 FITUR ARSIP:
+• Database terintegrasi real-time
+• Pencarian cepat dan akurat
+• Hasil terurut berdasarkan relevansi
+• Akses mudah melalui WhatsApp
+
+💡 BANTUAN:
+Jika kesulitan mencari berita tertentu:
+• Hubungi admin desa
+• Coba kata kunci alternatif
+• Periksa menu kategori berita
+
+🏛️ Desa Pulosarok
+Arsip berita lengkap dan mudah diakses
+
+---
+📝 *Dibuat oleh Mahasiswa UMSU*
+🎓 Program KKN 2025
+🏫 Universitas Muhammadiyah Sumatera Utara

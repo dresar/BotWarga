@@ -1,0 +1,111 @@
+📝 Aduan Lainnya
+
+📝 Format Keluhan:
+Untuk mengajukan keluhan yang tidak termasuk kategori lain, gunakan format berikut:
+
+```
+Keluhan
+Nama: [Nama Lengkap Anda]
+Alamat: [Alamat Lengkap dengan RT/RW]
+Keluhan: [Deskripsi detail masalah atau saran yang ingin disampaikan]
+```
+
+📋 Contoh Penggunaan:
+```
+Keluhan
+Nama: Warga Aktif
+Alamat: Jl. Partisipasi No. 99, RT 05/RW 01
+Keluhan: Saya ingin mengusulkan adanya program pelatihan komputer untuk remaja desa
+```
+
+📂 Jenis Keluhan/Saran Lainnya:
+
+### 🏛️ Pemerintahan Desa
+- Transparansi anggaran desa
+- Pelayanan administrasi lambat
+- Perangkat desa tidak responsif
+- Rapat desa tidak terbuka
+- Kebijakan desa perlu sosialisasi
+
+### 💡 Saran dan Usulan
+- Program pemberdayaan masyarakat
+- Kegiatan sosial dan budaya
+- Peningkatan fasilitas umum
+- Inovasi pelayanan desa
+
+🔄 Proses Otomatis:
+- Kategori: Pelayanan (Prioritas Medium)
+- Admin akan mengevaluasi dan menindaklanjuti
+- Saran konstruktif akan dipertimbangkan untuk perbaikan
+
+### 👥 Sosial Kemasyarakatan
+- Konflik antar warga
+- Diskriminasi sosial
+- Kegiatan gotong royong menurun
+- Program sosial tidak merata
+- Bantuan sosial tidak tepat sasaran
+
+### 💰 Ekonomi dan Keuangan
+- Program ekonomi desa stagnan
+- BUMDes tidak transparan
+- Bantuan modal usaha sulit
+- Pasar desa tidak terawat
+- Koperasi tidak aktif
+
+### 🎭 Budaya dan Agama
+- Fasilitas ibadah rusak
+- Kegiatan keagamaan terganggu
+- Budaya lokal mulai hilang
+- Konflik antar umat beragama
+- Tempat bersejarah tidak terawat
+
+### 🚨 Keamanan dan Ketertiban
+- Pencurian/kejahatan
+- Gangguan keamanan
+- Penerangan jalan kurang
+- Ronda malam tidak berjalan
+- Pos kamling rusak
+
+### 🏃‍♂️ Olahraga dan Pemuda
+- Fasilitas olahraga rusak
+- Kegiatan pemuda kurang
+- Lapangan olahraga tidak terawat
+- Program pelatihan tidak ada
+- Organisasi pemuda tidak aktif
+
+### 📡 Teknologi dan Informasi
+- Sinyal internet lemah
+- Website desa tidak update
+- Sistem informasi desa error
+- Digitalisasi pelayanan lambat
+- Literasi digital rendah
+
+### 🚗 Transportasi dan Mobilitas
+- Angkutan umum tidak ada
+- Parkir kendaraan sembarangan
+- Terminal/halte rusak
+- Akses jalan terbatas
+- Rambu lalu lintas kurang
+
+## Contoh Pengaduan:
+```
+pengaduan
+Nama: Pak Joko Susilo
+Alamat: Dusun Tengah RT 02/RW 03 Desa Pulosarok
+Aduan: Sudah 6 bulan BUMDes tidak transparan dalam laporan keuangan. Warga tidak tahu keuntungan dan kerugian usaha. Diminta rapat evaluasi tapi tidak ada tanggapan dari pengurus. Mohon ada transparansi dan akuntabilitas.
+```
+
+📝 Catatan: Kategori "Lainnya" untuk pengaduan yang tidak masuk dalam 5 kategori utama (Pelayanan Publik, Infrastruktur, Kesehatan, Pendidikan, Lingkungan).
+
+🤝 Tips: Jelaskan dengan detail masalah yang dihadapi dan dampaknya terhadap masyarakat desa.
+
+📞 Informasi: Untuk pengaduan yang memerlukan penanganan khusus, akan diteruskan ke instansi terkait.
+
+## Informasi
+
+Layanan aduan untuk masalah lainnya yang tidak termasuk dalam kategori utama.
+
+---
+📝 *Dibuat oleh Mahasiswa UMSU*
+🎓 Program KKN 2025
+🏫 Universitas Muhammadiyah Sumatera Utara

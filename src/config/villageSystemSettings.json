@@ -1,0 +1,266 @@
+{
+  "metadata": {
+    "version": "1.0.0",
+    "lastUpdated": "2025-01-13",
+    "description": "Konfigurasi Sistem Bot WhatsApp Layanan Desa",
+    "maintainer": "Tim IT Desa",
+    "environment": "production"
+  },
+  
+  "village": {
+    "name": "Desa Contoh",
+    "code": "3201012001",
+    "district": "Kecamatan Contoh",
+    "regency": "Kabupaten Contoh",
+    "province": "Jawa Barat",
+    "postalCode": "12345",
+    "headOfVillage": "Bapak Kepala Desa",
+    "secretary": "Ibu Sekretaris Desa",
+    "contact": {
+      "phone": "+62812345678",
+      "email": "desa@contoh.go.id",
+      "website": "https://desacontoh.go.id",
+      "address": "Jl. Desa No. 1, Desa Contoh"
+    }
+  },
+  
+  "system": {
+    "botName": "Bot Layanan Desa",
+    "welcomeMessage": "Selamat datang di layanan digital Desa Contoh! Silakan pilih menu yang tersedia.",
+    "operatingHours": {
+      "start": "08:00",
+      "end": "16:00",
+      "timezone": "Asia/Jakarta",
+      "workingDays": ["monday", "tuesday", "wednesday", "thursday", "friday"]
+    },
+    "emergencyContact": "+628123456789",
+    "maintenanceMode": false,
+    "maintenanceMessage": "Sistem sedang dalam pemeliharaan. Silakan coba lagi nanti."
+  },
+  
+  "limits": {
+    "nameLimit": 50,
+    "messageLimit": 1000,
+    "fileLimit": 10485760,
+    "complaintTimeout": 86400000,
+    "maxComplaintsPerDay": 3,
+    "maxMenuDepth": 5,
+    "sessionTimeout": 1800000,
+    "maxRetries": 3,
+    "rateLimitPerMinute": 10,
+    "maxFileUploads": 5
+  },
+  
+  "filters": {
+    "profanityFilter": true,
+    "spamFilter": true,
+    "linkFilter": false,
+    "autoModeration": true,
+    "bannedWords": [
+      "spam",
+      "scam",
+      "penipuan",
+      "hoax"
+    ],
+    "allowedFileTypes": [
+      "jpg",
+      "jpeg",
+      "png",
+      "pdf",
+      "doc",
+      "docx"
+    ],
+    "blockedDomains": [
+      "suspicious-site.com",
+      "spam-domain.net"
+    ]
+  },
+  
+  "moderation": {
+    "autoWarn": true,
+    "autoMute": false,
+    "autoBan": false,
+    "warningThreshold": 3,
+    "muteThreshold": 5,
+    "banThreshold": 10,
+    "logViolations": true,
+    "notifyAdmins": true,
+    "escalationEnabled": true,
+    "cooldownPeriod": 300000
+  },
+  
+  "notifications": {
+    "adminNotifications": true,
+    "userConfirmations": true,
+    "systemAlerts": true,
+    "maintenanceNotices": true,
+    "emergencyBroadcast": true,
+    "dailyReports": true,
+    "weeklyReports": false,
+    "monthlyReports": true
+  },
+  
+  "security": {
+    "adminVerification": true,
+    "twoFactorAuth": false,
+    "sessionEncryption": true,
+    "auditLogging": true,
+    "ipWhitelist": [],
+    "maxLoginAttempts": 3,
+    "lockoutDuration": 900000,
+    "passwordPolicy": {
+      "minLength": 8,
+      "requireUppercase": true,
+      "requireNumbers": true,
+      "requireSpecialChars": false
+    }
+  },
+  
+  "services": {
+    "administrasiKependudukan": {
+      "enabled": true,
+      "requiresVerification": true,
+      "processingTime": "3-7 hari kerja",
+      "documents": [
+        "KTP",
+        "KK",
+        "Akta Kelahiran",
+        "Surat Keterangan Domisili"
+      ]
+    },
+    "perizinan": {
+      "enabled": true,
+      "requiresVerification": true,
+      "processingTime": "7-14 hari kerja",
+      "types": [
+        "Izin Usaha",
+        "Izin Bangunan",
+        "Izin Keramaian",
+        "Izin Lingkungan"
+      ]
+    },
+    "kesehatan": {
+      "enabled": true,
+      "requiresVerification": false,
+      "emergencyResponse": true,
+      "services": [
+        "Posyandu",
+        "Puskesmas",
+        "Ambulans Desa",
+        "Konsultasi Kesehatan"
+      ]
+    },
+    "informasiDesa": {
+      "enabled": true,
+      "autoUpdate": true,
+      "categories": [
+        "Berita Desa",
+        "Pengumuman",
+        "Agenda Kegiatan",
+        "Wisata Desa"
+      ]
+    },
+    "pengaduan": {
+      "enabled": true,
+      "anonymous": true,
+      "requiresEvidence": false,
+      "autoAssignment": true,
+      "escalationTime": 172800000,
+      "categories": [
+        "Infrastruktur",
+        "Pelayanan Publik",
+        "Lingkungan",
+        "Keamanan",
+        "Lainnya"
+      ]
+    }
+  },
+  
+  "database": {
+    "type": "sqlite",
+    "path": "./database/bot_layanan_warga.sqlite",
+    "backupEnabled": true,
+    "backupInterval": 86400000,
+    "maxBackups": 7,
+    "compression": true,
+    "encryption": false
+  },
+  
+  "logging": {
+    "level": "info",
+    "enableConsole": true,
+    "enableFile": true,
+    "logPath": "./logs",
+    "maxFileSize": "10MB",
+    "maxFiles": 5,
+    "logRotation": true,
+    "includeTimestamp": true,
+    "includeLevel": true
+  },
+  
+  "performance": {
+    "cacheEnabled": true,
+    "cacheTimeout": 3600000,
+    "maxConcurrentUsers": 100,
+    "responseTimeout": 30000,
+    "memoryLimit": "512MB",
+    "cpuThreshold": 80,
+    "diskSpaceThreshold": 85
+  },
+  
+  "integration": {
+    "whatsappBusiness": {
+      "enabled": true,
+      "apiVersion": "v17.0",
+      "webhookVerification": true,
+      "messageTemplates": true
+    },
+    "email": {
+      "enabled": false,
+      "smtp": {
+        "host": "smtp.gmail.com",
+        "port": 587,
+        "secure": false
+      }
+    },
+    "sms": {
+      "enabled": false,
+      "provider": "twilio",
+      "fallback": true
+    }
+  },
+  
+  "ui": {
+    "theme": "default",
+    "language": "id",
+    "dateFormat": "DD/MM/YYYY",
+    "timeFormat": "HH:mm",
+    "currency": "IDR",
+    "showEmojis": true,
+    "menuStyle": "numbered",
+    "responseStyle": "formal"
+  },
+  
+  "backup": {
+    "enabled": true,
+    "schedule": "0 2 * * *",
+    "retention": 30,
+    "compression": true,
+    "encryption": false,
+    "remoteBackup": false,
+    "backupPath": "./backups"
+  },
+  
+  "monitoring": {
+    "healthCheck": true,
+    "performanceMetrics": true,
+    "errorTracking": true,
+    "uptime": true,
+    "alertThresholds": {
+      "responseTime": 5000,
+      "errorRate": 5,
+      "memoryUsage": 80,
+      "diskUsage": 85
+    }
+  }
+}

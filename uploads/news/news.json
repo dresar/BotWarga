@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Pembangunan Jalan Desa Pulosarok Tahap 2",
+    "content": "Pemerintah desa melanjutkan pembangunan infrastruktur jalan dengan anggaran dari dana desa. Proyek ini diharapkan dapat meningkatkan akses transportasi warga.",
+    "category": "infrastruktur",
+    "date": "2024-01-15",
+    "author": "Admin Desa"
+  },
+  {
+    "id": 2,
+    "title": "Program Vaksinasi COVID-19 Dosis Booster",
+    "content": "Puskesmas setempat mengadakan program vaksinasi booster untuk seluruh warga desa. Kegiatan dilaksanakan di balai desa setiap hari Senin dan Kamis.",
+    "category": "kesehatan",
+    "date": "2024-01-10",
+    "author": "Puskesmas Pulosarok"
+  },
+  {
+    "id": 3,
+    "title": "Pelatihan UMKM Digital Marketing",
+    "content": "Dinas Koperasi mengadakan pelatihan digital marketing untuk pelaku UMKM di desa. Pelatihan mencakup penggunaan media sosial dan e-commerce.",
+    "category": "ekonomi",
+    "date": "2024-01-08",
+    "author": "Dinas Koperasi"
+  },
+  {
+    "id": 4,
+    "title": "Gotong Royong Pembersihan Lingkungan",
+    "content": "Warga desa mengadakan kegiatan gotong royong pembersihan lingkungan setiap minggu pertama. Kegiatan ini untuk menjaga kebersihan dan kesehatan lingkungan.",
+    "category": "lingkungan",
+    "date": "2024-01-05",
+    "author": "RT/RW Setempat"
+  },
+  {
+    "id": 5,
+    "title": "Bantuan Sosial untuk Keluarga Kurang Mampu",
+    "content": "Pemerintah desa menyalurkan bantuan sosial berupa sembako untuk keluarga kurang mampu. Program ini rutin dilaksanakan setiap bulan.",
+    "category": "sosial",
+    "date": "2024-01-03",
+    "author": "Admin Desa"
+  }
+]

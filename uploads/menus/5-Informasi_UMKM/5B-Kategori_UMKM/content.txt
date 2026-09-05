@@ -1,0 +1,37 @@
+📂 KATEGORI UMKM DESA PULOSAROK
+═══════════════════════════════════
+
+📊 STATISTIK UMKM:
+• Total UMKM Aktif: 8
+
+📋 DAFTAR KATEGORI:
+
+👕 FASHION (1 UMKM)
+🔧 JASA (3 UMKM)
+🍽️ KULINER (2 UMKM)
+🌾 PERTANIAN (1 UMKM)
+🛍️ RETAIL (1 UMKM)
+
+
+🔍 Cara mencari UMKM berdasarkan kategori:
+• Ketik "umkm kuliner" untuk UMKM kuliner
+• Ketik "umkm retail" untuk toko dan retail
+• Ketik "umkm jasa" untuk layanan jasa
+• Ketik "umkm pertanian" untuk produk pertanian
+• Ketik "umkm fashion" untuk fashion dan aksesoris
+
+💡 Tips:
+• Gunakan nama kategori yang tepat
+• Kategori tidak case-sensitive
+• Bisa juga ketik "daftar umkm" untuk melihat semua
+
+📞 Bantuan:
+Hubungi admin desa jika mengalami kesulitan
+
+🏛️ Desa Pulosarok
+Mendukung UMKM lokal berkualitas
+
+---
+📝 *Dibuat oleh Mahasiswa UMSU*
+🎓 Program KKN 2025
+🏫 Universitas Muhammadiyah Sumatera Utara

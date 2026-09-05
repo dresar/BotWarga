@@ -1,0 +1,104 @@
+🏗️ Aduan Infrastruktur
+
+📝 Format Keluhan:
+Untuk mengajukan keluhan infrastruktur, gunakan format berikut:
+
+```
+Keluhan
+Nama: [Nama Lengkap Anda]
+Alamat: [Alamat Lengkap dengan RT/RW]
+Keluhan: [Deskripsi detail masalah infrastruktur yang dialami]
+```
+
+📋 Contoh Penggunaan:
+```
+Keluhan
+Nama: Pak RT
+Alamat: Jl. Pembangunan No. 88, RT 04/RW 02
+Keluhan: Lampu penerangan jalan di gang utama mati semua, jalan gelap dan berbahaya di malam hari
+```
+
+🔧 Jenis Infrastruktur yang Dapat Dilaporkan:
+
+### 🛣️ Jalan dan Transportasi
+- Jalan rusak/berlubang
+- Jembatan rusak
+- Akses jalan terputus
+- Rambu lalu lintas hilang/rusak
+
+### 💡 Penerangan Jalan
+- Lampu jalan mati
+- Tiang listrik rusak
+- Kabel putus
+
+### 🚰 Air dan Sanitasi
+- Saluran air tersumbat
+- Pipa air bocor
+- Drainase rusak
+
+🔄 Proses Otomatis:
+- Kategori: Infrastruktur
+- Prioritas berdasarkan tingkat kerusakan
+- Admin mendapat notifikasi dengan detail lokasi
+- Lampu jalan mati
+- Tiang listrik roboh
+- Penerangan kurang memadai
+- Kabel listrik putus
+
+### 🌊 Drainase dan Irigasi
+- Saluran air tersumbat
+- Banjir/genangan air
+- Sistem irigasi rusak
+- Gorong-gorong rusak
+
+### 🏗️ Fasilitas Umum
+- Balai desa rusak
+- Tempat ibadah perlu perbaikan
+- Fasilitas olahraga rusak
+- MCK umum tidak berfungsi
+
+### 🌐 Telekomunikasi
+- Sinyal lemah
+- Menara BTS bermasalah
+- Internet desa lambat
+- Jaringan telepon terganggu
+
+## Contoh Pengaduan:
+```
+pengaduan
+Nama: Budi Santoso
+Alamat: Dusun Krajan RT 02/RW 03 Desa Pulosarok
+Aduan: Jalan di depan rumah saya rusak parah dan berlubang sepanjang 50 meter. Sudah menyebabkan 3 pengendara motor terjatuh minggu ini. Mohon segera diperbaiki karena sangat berbahaya terutama saat hujan.
+```
+
+📸 Penting: Sertakan foto kondisi infrastruktur yang rusak untuk mempercepat proses perbaikan.
+
+📍 Tips: Cantumkan lokasi yang spesifik (nama jalan, dekat landmark tertentu) agar mudah ditemukan petugas.
+
+## Informasi
+
+Layanan aduan infrastruktur Desa Pulosarok bertujuan untuk memperbaiki dan memelihara infrastruktur desa agar tetap berfungsi dengan baik.
+
+## Jenis Aduan yang Dapat Disampaikan
+
+1. Jalan desa rusak atau berlubang
+2. Jembatan yang tidak aman
+3. Saluran air/drainase tersumbat
+4. Lampu jalan yang tidak berfungsi
+5. Fasilitas umum rusak (balai desa, posyandu, dll)
+
+## Cara Menyampaikan Aduan
+
+1. Kirim pesan WhatsApp ke nomor ini dengan format:
+   *ADUAN INFRASTRUKTUR [LOKASI] [DETAIL KERUSAKAN]*
+2. Lampirkan foto kerusakan jika memungkinkan
+3. Isi formulir aduan di Kantor Desa
+
+Setiap aduan akan dicatat dan dimasukkan dalam rencana perbaikan infrastruktur desa. Prioritas perbaikan ditentukan berdasarkan tingkat kerusakan dan dampaknya bagi masyarakat.
+
+Untuk informasi lebih lanjut, hubungi Kepala Urusan Pembangunan di 0823-4567-8901.
+
+---
+📝 *Dibuat oleh Mahasiswa UMSU*
+🎓 Program KKN 2025
+🏫 Universitas Muhammadiyah Sumatera Utara

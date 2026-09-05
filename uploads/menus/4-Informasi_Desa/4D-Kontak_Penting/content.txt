@@ -1,0 +1,16 @@
+# Kontak Penting (Dummy)
+
+- Kantor Desa: 0812-0000-0000
+- Kepala Desa: 0812-0000-0002
+- Sekretaris Desa: 0812-0000-0003
+- Puskesmas Pembantu: 0813-0000-0001
+- BPBD (Bencana): 0813-0000-0002
+- Kepolisian/Polsek: 110 (hotline nasional) / 0813-0000-0003
+- Pemadam Kebakaran: 113 / 0813-0000-0004
+
+Catatan: Nomor di atas adalah contoh (dummy). Ganti dengan nomor resmi milik desa agar warga mendapatkan informasi yang akurat.
+
+---
+📝 *Dibuat oleh Mahasiswa UMSU*
+🎓 Program KKN 2025
+🏫 Universitas Muhammadiyah Sumatera Utara

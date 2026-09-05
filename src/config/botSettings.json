@@ -1,0 +1,79 @@
+{
+  "limits": {
+    "nameLimit": 50,
+    "messageLimit": 1000,
+    "fileLimit": 10,
+    "complaintTimeout": 24,
+    "maxComplaintsPerDay": 3,
+    "maxMessageLength": 2000,
+    "maxFileSize": 50,
+    "rateLimitPerMinute": 10,
+    "sessionTimeout": 30
+  },
+  "filters": {
+    "profanityFilter": true,
+    "spamFilter": true,
+    "linkFilter": false,
+    "imageFilter": false,
+    "documentFilter": false,
+    "autoModeration": true,
+    "bannedWords": [
+      "spam",
+      "scam",
+      "fake"
+    ],
+    "allowedFileTypes": [
+      "jpg",
+      "jpeg",
+      "png",
+      "pdf",
+      "doc",
+      "docx"
+    ],
+    "blockedDomains": [
+      "suspicious-site.com",
+      "malware-site.org"
+    ]
+  },
+  "moderation": {
+    "autoWarn": true,
+    "autoMute": false,
+    "autoBan": false,
+    "warningThreshold": 3,
+    "muteThreshold": 5,
+    "banThreshold": 10,
+    "muteDuration": 60,
+    "logViolations": true,
+    "notifyAdmins": true,
+    "escalationEnabled": true
+  },
+  "notifications": {
+    "adminNotifications": true,
+    "userNotifications": true,
+    "systemAlerts": true,
+    "maintenanceMode": false,
+    "emergencyMode": false
+  },
+  "system": {
+    "botName": "Bot Layanan Desa Pulosarok",
+    "version": "2.0.0",
+    "timezone": "Asia/Jakarta",
+    "language": "id",
+    "debugMode": false,
+    "backupEnabled": true,
+    "backupInterval": 24,
+    "logLevel": "info"
+  },
+  "security": {
+    "adminVerification": true,
+    "twoFactorAuth": false,
+    "sessionSecurity": true,
+    "encryptData": false,
+    "auditLog": true,
+    "ipWhitelist": [],
+    "maxLoginAttempts": 3,
+    "lockoutDuration": 15
+  },
+  "lastUpdated": "2025-01-02T19:37:00.000Z",
+  "updatedBy": "system"
+}

@@ -1,0 +1,16 @@
+[2025-09-02T19:18:39.447Z] 🧹 Starting cache cleanup process...
+[2025-09-02T19:18:39.456Z] ./session: 14.34 KB
+[2025-09-02T19:18:39.467Z] ./uploads: 203.37 KB
+[2025-09-02T19:18:39.468Z] ./logs: 1.05 KB
+[2025-09-02T19:18:39.469Z] ./temp: 4.6 KB
+[2025-09-02T19:18:39.469Z] ./node_modules/.cache: 0 Bytes
+[2025-09-02T19:18:39.469Z] Total cache size: 223.36 KB
+[2025-09-02T19:18:39.470Z] Max allowed cache: 5 GB
+[2025-09-02T19:18:39.471Z] Cleaned temp directory: ./temp
+[2025-09-02T19:18:39.473Z] Optimizing database: ./database.db
+[2025-09-02T19:18:39.495Z] Database optimization error: Command failed: sqlite3 "./database.db" "VACUUM;"
+'sqlite3' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2025-09-02T19:18:39.496Z] ✅ Cleanup completed. Freed: 4.6 KB
+[2025-09-02T19:18:39.509Z] Final cache size: 219.38 KB

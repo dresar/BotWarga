@@ -1,0 +1,94 @@
+{
+  "admins": [
+    {
+      "id": 1,
+      "username": "superadmin",
+      "password": "$2b$10$jlLS6VaYWsLYVoMcLe9uZ.qKWcmw3dAGT/p5luMbRXV35tJ6y7jIi",
+      "phone_number": "6282392115909",
+      "role": "superadmin",
+      "is_active": true,
+      "created_at": "2025-01-02T18:05:09.000Z",
+      "last_login": "2025-09-02T18:29:22.611Z"
+    },
+    {
+      "id": 2,
+      "username": "pegawai1",
+      "password": "$2b$10$on2LnunLyUmmvBGuZ49jDObokII0LiV77kyzJbBJ5LVwejjOQe0k.",
+      "phone_number": "6289876543210",
+      "role": "pegawai",
+      "is_active": true,
+      "created_at": "2025-09-02T18:13:12.610Z",
+      "last_login": null
+    },
+    {
+      "id": 3,
+      "username": "pegawai2",
+      "password": "$2b$10$.OqRKeppUDNMQq5RJ.XkIOyCQhSWspr.n1Yn7/4DhJMeDFeuAMZwy",
+      "phone_number": "6281234567890",
+      "role": "pegawai",
+      "is_active": true,
+      "created_at": "2025-09-02T18:21:01.100Z",
+      "last_login": null
+    }
+  ],
+  "roles": {
+    "superadmin": {
+      "name": "Super Administrator",
+      "description": "Akses penuh ke semua fitur sistem",
+      "permissions": [
+        "admin_management",
+        "user_management",
+        "menu_management",
+        "content_management",
+        "umkm_management",
+        "umkm_view",
+        "news_management",
+        "news_view",
+        "complaint_management",
+        "village_info_management",
+        "system_settings",
+        "view_reports",
+        "receive_notifications"
+      ]
+    },
+    "admin": {
+      "name": "Administrator",
+      "description": "Akses ke sebagian besar fitur sistem",
+      "permissions": [
+        "user_management",
+        "menu_management",
+        "content_management",
+        "umkm_management",
+        "news_management",
+        "complaint_management",
+        "village_info_management",
+        "view_reports"
+      ]
+    },
+    "pegawai": {
+      "name": "Pegawai",
+      "description": "Akses terbatas hanya untuk UMKM dan berita",
+      "permissions": [
+        "umkm_management",
+        "news_management",
+        "umkm_view",
+        "news_view"
+      ]
+    }
+  },
+  "permissions": {
+    "admin_management": "Mengelola admin dan pengguna admin",
+    "user_management": "Mengelola pengguna bot",
+    "menu_management": "Mengelola struktur menu",
+    "content_management": "Mengelola konten menu",
+    "umkm_management": "Menambah, edit, hapus data UMKM",
+    "umkm_view": "Melihat daftar UMKM",
+    "news_management": "Menambah, edit, hapus berita",
+    "news_view": "Melihat daftar berita",
+    "complaint_management": "Mengelola pengaduan warga",
+    "village_info_management": "Mengelola informasi desa",
+    "system_settings": "Mengubah pengaturan sistem",
+    "view_reports": "Melihat laporan dan statistik",
+    "receive_notifications": "Menerima notifikasi sistem"
+  }
+}
